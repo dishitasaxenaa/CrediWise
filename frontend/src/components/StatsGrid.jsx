@@ -16,7 +16,7 @@ export default function StatsGrid({ metrics, streak }) {
     },
     {
       title: "Account Streak",
-      value: `${streak || "?"} Months`,
+      value: `${streak || "01"} Months`,
       trend: "Keep Going!",
       trendClass: "bg-cyan-500/30 text-cyan-300 border border-cyan-400/50",
     },
