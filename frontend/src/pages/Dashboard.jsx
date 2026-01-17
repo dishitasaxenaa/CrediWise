@@ -69,7 +69,7 @@ export default function Dashboard() {
              </div>
              
              <div className="glass-card p-6">
-                 <h3 className="text-lg font-semibold text-white mb-6">Emissions Trend</h3>
+                 <h3 className="text-lg font-semibold text-white">Emissions Trend</h3>
                  <TrendSection trend={data.trend} carbonTrend={data.carbonTrend} />
              </div>
         </div>
