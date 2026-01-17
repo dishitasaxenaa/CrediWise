@@ -1,15 +1,15 @@
-# 🌱 CredWise – Green Credit Scoring Platform
+# 🌱 CrediWise – Green Credit Scoring Platform
 
-CredWise is a sustainability-focused fintech backend that analyzes a user’s banking transactions to generate a **Green Credit Score** and incentivize environmentally responsible spending through **better loan interest rates**.
+CrediWise is a sustainability-focused fintech backend that analyzes a user’s banking transactions to generate a **Green Credit Score** and incentivize environmentally responsible spending through **better loan interest rates**.
 
 ---
 
 ## 🚀 Overview
 
 Traditional credit scores evaluate *repayment behavior* but ignore *how money is spent*.  
-**CredWise bridges this gap** by analyzing spending patterns and rewarding users for low-carbon financial behavior.
+**CrediWise bridges this gap** by analyzing spending patterns and rewarding users for low-carbon financial behavior.
 
-Using AI-powered transaction classification, CredWise computes a **Green Score (0–850)** based on the user’s past 6 months of spending and maps it to interest-rate benefits.
+Using AI-powered transaction classification, CrediWise computes a **Green Score (0–850)** based on the user’s past 6 months of spending and maps it to interest-rate benefits.
 
 ---
 
