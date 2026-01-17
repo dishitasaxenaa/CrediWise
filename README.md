@@ -51,7 +51,7 @@ Using AI-powered transaction classification, CredWise computes a **Green Score (
 - **Backend**: Node.js, Express
 - **AI**: Google Gemini (`gemini-1.5-flash`)
 - **Authentication**: JWT (mocked)
-- **Data Source**: Generated transaction dataset (JSON)
+- **Data Base**: MongoDB
 - **Architecture**: Monolithic, service-based
 
 ---
